@@ -1,0 +1,7 @@
+Links:
+1. https://www.kaggle.com/               --------------for kaggle sites
+2. https://datasetsearch.research.google...      -------------- resercg google 
+3. https://data.fivethirtyeight.com/              --------- five thirty sites
+4. https://data.gov/                               ------------- govt data sites
+5. https://github.com/search?q=dataset              --------------dataset from github
+6. https://data.nasa.gov/                      ------------- nasa dataset
